@@ -1,2 +1,2 @@
 # linux_commands
-A repository containing commands for performing basic tasks in linux.
+A repository containing shorthand for performing basic tasks in linux. Later I would be converting these into blogposts.
